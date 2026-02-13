@@ -1,1 +1,1 @@
-# Project.1
+Automated_Fabric_Quality_Inspection_Project
